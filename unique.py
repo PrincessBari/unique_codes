@@ -72,7 +72,7 @@ print(num_unique_values_2)
 grantinfo = [numbers a-z]
 rpfrmelt = [numbers a-z]
 
-common_numbers = set(grantinfotab).intersection(set(rpfrmelt))
+common_numbers = set(grantinfo).intersection(set(rpfrmelt))
 
 print("Common numbers:", common_numbers)
 # Common numbers: { ... }
